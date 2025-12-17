@@ -160,13 +160,4 @@ Cardiovascular_Disease_Detection/
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Made with ❤️ using Streamlit & PyTorch
-</p>
 
